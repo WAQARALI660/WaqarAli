@@ -1,7 +1,7 @@
 # WaqarAli
 Hello world this is my Profile
 <h1 align="center">Hi 👋, I'm Waqar Ishaq</h1>
-<h3 align="center">A passionate With AI and Machine Learning</h3>
+<h3 align="center">I am passionate about AI and Machine Learning.</h3>
 
 - 📫 How to reach me **wa5710092@gmail.com**
 
